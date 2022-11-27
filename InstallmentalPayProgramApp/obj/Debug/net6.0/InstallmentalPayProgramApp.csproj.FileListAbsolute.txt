@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\InstallmentalPayProgramApp\InstallmentalPayProgramApp\bin\Debug\net6.0\InstallmentalPayProgramApp.exe
+C:\Users\HP\source\repos\InstallmentalPayProgramApp\InstallmentalPayProgramApp\bin\Debug\net6.0\InstallmentalPayProgramApp.deps.json
+C:\Users\HP\source\repos\InstallmentalPayProgramApp\InstallmentalPayProgramApp\bin\Debug\net6.0\InstallmentalPayProgramApp.runtimeconfig.json
+C:\Users\HP\source\repos\InstallmentalPayProgramApp\InstallmentalPayProgramApp\bin\Debug\net6.0\InstallmentalPayProgramApp.dll
+C:\Users\HP\source\repos\InstallmentalPayProgramApp\InstallmentalPayProgramApp\bin\Debug\net6.0\InstallmentalPayProgramApp.pdb
+C:\Users\HP\source\repos\InstallmentalPayProgramApp\InstallmentalPayProgramApp\obj\Debug\net6.0\InstallmentalPayProgramApp.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\InstallmentalPayProgramApp\InstallmentalPayProgramApp\obj\Debug\net6.0\InstallmentalPayProgramApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\InstallmentalPayProgramApp\InstallmentalPayProgramApp\obj\Debug\net6.0\InstallmentalPayProgramApp.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\InstallmentalPayProgramApp\InstallmentalPayProgramApp\obj\Debug\net6.0\InstallmentalPayProgramApp.AssemblyInfo.cs
+C:\Users\HP\source\repos\InstallmentalPayProgramApp\InstallmentalPayProgramApp\obj\Debug\net6.0\InstallmentalPayProgramApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\InstallmentalPayProgramApp\InstallmentalPayProgramApp\obj\Debug\net6.0\InstallmentalPayProgramApp.dll
+C:\Users\HP\source\repos\InstallmentalPayProgramApp\InstallmentalPayProgramApp\obj\Debug\net6.0\refint\InstallmentalPayProgramApp.dll
+C:\Users\HP\source\repos\InstallmentalPayProgramApp\InstallmentalPayProgramApp\obj\Debug\net6.0\InstallmentalPayProgramApp.pdb
+C:\Users\HP\source\repos\InstallmentalPayProgramApp\InstallmentalPayProgramApp\obj\Debug\net6.0\InstallmentalPayProgramApp.genruntimeconfig.cache
+C:\Users\HP\source\repos\InstallmentalPayProgramApp\InstallmentalPayProgramApp\obj\Debug\net6.0\ref\InstallmentalPayProgramApp.dll
